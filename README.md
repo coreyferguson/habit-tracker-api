@@ -1,3 +1,3 @@
 
-# Habit Tracker Service
+# Habit Tracker API
 
